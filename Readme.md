@@ -94,6 +94,7 @@ Follow these steps to set up the project locally.
 ## 📂 Folder Structure
 
 
+```
 Canvas-Editor/
 ├── public/                  # Static assets
 ├── src/
@@ -108,6 +109,8 @@ Canvas-Editor/
 ├── package.json             # Project dependencies
 ├── README.md                # Project documentation
 └── ...
+```
+
 
 
 
