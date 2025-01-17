@@ -104,10 +104,10 @@ Canvas-Editor/
 │   ├── App.tsx              # Main application component
 │   ├── index.tsx            # Entry point
 │   └── ...
+├── .env                     # Environment variables
 ├── package.json             # Project dependencies
 ├── README.md                # Project documentation
 └── ...
-
 
 
 
