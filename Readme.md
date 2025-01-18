@@ -1,7 +1,3 @@
-Here’s the revised and polished version of your README file. It has been improved for better readability, professionalism, and visual appeal. I’ve also fixed formatting issues and added proper markdown syntax.
-
-
-
 # Canvas Editor
 
 Canvas Editor is a web application that allows users to search for images, add custom text captions, and download the edited images. Built with React, TypeScript, and Fabric.js, this application provides a seamless user experience for creating personalized images.
@@ -9,9 +5,11 @@ Canvas Editor is a web application that allows users to search for images, add c
 ![Canvas Editor Screenshot](https://github.com/Durgaprasd25d/my-bio/blob/main/Screenshot%202025-01-18%20004504.png)  
 *Screenshot of the Canvas Editor in action.*
 
-![Canvas Editor Screenshot](https://github.com/Durgaprasd25d/my-bio/blob/main/Screenshot%202025-01-18%20004826.png)  
+![Canvas Editor Screenshot](https://github.com/Durgaprasd25d/my-bio/blob/main/Screenshot%202025-01-18%20134211.png)  
 *Screenshot of the image editing interface.*
 
+## 🪧Demo
+   - ![Click For Demo](https://canva-edit.netlify.app/)  
 
 
 ## ✨ Features
